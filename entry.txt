@@ -1,0 +1,3 @@
+Breakpoint set at three
+the log scrolls past, silent, red
+a missing comma
